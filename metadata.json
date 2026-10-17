@@ -1,0 +1,6 @@
+{
+  "name": "VEERPATH - Defence Exam Prep & AI Mentor",
+  "description": "Mobile-first gamified defence exam preparation for NDA, CDS, and AFCAT with Veer AI soldier guide, multi-layer validated solving engines, and adaptive drills.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
